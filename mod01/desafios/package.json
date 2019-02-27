@@ -1,0 +1,17 @@
+{
+    "name": "desafios",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "dependencies": {
+        "@babel/cli": "^7.2.3",
+        "@babel/core": "^7.3.3",
+        "@babel/plugin-proposal-object-rest-spread": "^7.3.4",
+        "@babel/preset-env": "^7.3.1"
+    },
+    "scripts": {
+        "dev": "babel ./exercicio03.js -o ./exercicio03-bundle.js -w"
+    },
+    "author": "",
+    "license": "ISC"
+}
