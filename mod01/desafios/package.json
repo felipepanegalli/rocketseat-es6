@@ -10,7 +10,7 @@
         "@babel/preset-env": "^7.3.1"
     },
     "scripts": {
-        "dev": "babel ./exercicio04.js -o ./exercicio04-bundle.js -w"
+        "dev": "babel ./exercicio05.js -o ./exercicio05-bundle.js -w"
     },
     "author": "",
     "license": "ISC"
